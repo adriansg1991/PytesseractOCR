@@ -122,3 +122,11 @@ print(df)
 ![Df](https://github.com/adriansg1991/PytesseractOCR/blob/main/Df.png)
 
 ![Df_Ticket](https://github.com/adriansg1991/PytesseractOCR/blob/main/df_Ticket.png)
+
+
+## 📬 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o en [Linkedin](https://linkedin.com/in/adriansanchez-garcia/).
+
+¡Gracias por visitar el repositorio! 🚀
+
