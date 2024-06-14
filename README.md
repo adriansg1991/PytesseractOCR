@@ -119,4 +119,4 @@ df = pd.DataFrame(resultados, columns=["Archivo", "Fecha", "Importe",  "Importe 
 print(df)
 
 `````
-![Output](https://github.com/adriansg1991/ExtractData_PyPDF/blob/main/Output.png)
+![Df](https://github.com/adriansg1991/PytesseractOCR/blob/main/Df.png)
