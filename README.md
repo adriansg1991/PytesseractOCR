@@ -120,4 +120,5 @@ print(df)
 
 `````
 ![Df](https://github.com/adriansg1991/PytesseractOCR/blob/main/Df.png)
+
 ![Df_Ticket](https://github.com/adriansg1991/PytesseractOCR/blob/main/df_Ticket.png)
