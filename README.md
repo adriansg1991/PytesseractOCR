@@ -31,7 +31,7 @@ texto = pytesseract.image_to_string(img)
 # Imprimir el texto extraído
 print(texto)
 ```
-## Caso Práctico: Extracción de Información de Tickets de Datafono con Pytesseract
+## 📑 Caso Práctico: Extracción de Información de Tickets de Datafono con Pytesseract
 ecientemente, un amigo mío abrió un negocio y me pidió ayuda para extraer información de los tickets del datáfono, específicamente la fecha y el importe. Sin embargo, el importe en los tickets incluía el IVA, por lo que también necesitábamos eliminarlo. Para abordar este desafío, decidí utilizar pytesseract en Python junto con pandas para automatizar el proceso.
 
 Primero, utilicé pytesseract para extraer el texto de las imágenes de los tickets. Esto me permitió obtener los datos en formato de texto, que luego procesé con pandas para estructurarlos en un DataFrame de Python. En este DataFrame, agregué una nueva columna para calcular el importe sin IVA, lo cual fue bastante sencillo gracias a las funciones de pandas.
